@@ -1,0 +1,30 @@
+{
+  "station": "KJFK",
+  "time": "012051Z",
+  "wind": {
+    "direction": 220,
+    "speed": 15,
+    "unit": "KT"
+  },
+  "visibility": {
+    "distance": 10,
+    "unit": "SM"
+  },
+  "clouds": [
+    {
+      "type": "FEW",
+      "altitude": 2500
+    },
+    {
+      "type": "SCT",
+      "altitude": 18000
+    }
+  ],
+  "temperature": 13,
+  "dewPoint": 8,
+  "altimeter": {
+    "value": 29.80,
+    "unit": "inHg"
+  },
+  "remarks": "AO2 SLP092 T01280083"
+}

@@ -1,0 +1,13 @@
+# Set an environment variable "USBPORT" for this platform USB port
+# Use this variable in the build and serial monitoring scripts
+# Syntax in a Bash script:
+# . .env
+#   OR
+# source .env
+# Use the "." syntax as the primary preference
+
+# Linux
+# export USBPORT=/dev/ttyUSB0
+
+# MacOS
+export USBPORT=/dev/cu.usbserial-14130
